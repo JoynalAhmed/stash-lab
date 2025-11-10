@@ -2,3 +2,4 @@ line 1
 line 2 from local commit
 line 3 from remote
 another change at remote
+added a new change at local
